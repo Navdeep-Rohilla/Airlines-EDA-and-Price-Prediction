@@ -71,7 +71,7 @@ Evaluation Metrics:
 
 **Navdeep Rohilla**  
 B.Tech Artificial Intelligence & Data Science  
-[LinkedIn](https://www.linkedin.com/in/navdeeprohilla20) | [GitHub](https://github.com/navdeeprohilla03)
+[LinkedIn](https://www.linkedin.com/in/navdeeprohilla20) | [GitHub](https://github.com/navdeeprohilla03) |
 [Youtube](https://www.youtube.com/@codewithnavdeep)
 
 ---
